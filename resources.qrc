@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/iconImages">
+        <file alias="save">pic/icon.png</file>
+        <file>pic/close.png</file>
+        <file>pic/copy.png</file>
+        <file>pic/cut.png</file>
+        <file>pic/folder_open.png</file>
+        <file>pic/newfile.png</file>
+        <file>pic/paste.png</file>
+        <file>pic/print.png</file>
+        <file>pic/undo.png</file>
+        <file>pic/redo.png</file>
+    </qresource>
+</RCC>

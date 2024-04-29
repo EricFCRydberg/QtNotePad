@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Notepad_plus_plus_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus",
+	"CMAKE_SOURCE_DIR" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus",
+	"INCLUDE_DIR" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Notepad_plus_plus_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/icon.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/redo.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/print.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/folder_open.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/undo.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/copy.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/newfile.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/close.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/paste.png",
+		"C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/pic/cut.png"
+	],
+	"LOCK_FILE" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Notepad_plus_plus_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Notepad_plus_plus_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/pigil/OneDrive/Documents/Notepad_plus_plus/resources.qrc",
+	"VERBOSITY" : 0
+}
